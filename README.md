@@ -1,1 +1,1 @@
-# datastructure-solution
+# algorithms-codes
